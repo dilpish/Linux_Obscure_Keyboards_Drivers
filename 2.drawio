@@ -1,9 +1,69 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36" version="26.1.2">
   <diagram name="Страница — 1" id="oDKo9GKdf0j11t-g7U2y">
-    <mxGraphModel>
+    <mxGraphModel dx="683" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="450" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="210" y="377.5" width="80" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="680" y="400" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.table;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.table;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="432.5" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.table;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="630" y="340" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-16" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.phone_digital;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="360" y="505.5" width="25" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-19" value="" style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="680" y="320" width="40" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-20" value="" style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="560.0005080756887" y="298.996406460551" width="40" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-21" value="Служебный коридор" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="160" y="322" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-22" value="Кабинет 202" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="248" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-23" value="Кабинет 204" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="548" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-24" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.device_health;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="480" y="299" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-25" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.device_health;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="630" y="290" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-26" value="Улица" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="720" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-27" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="1">
+          <mxGeometry x="620" y="395" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-28" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="1">
+          <mxGeometry x="530" y="395" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-29" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="1">
+          <mxGeometry x="440" y="395" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-30" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.printer;" vertex="1" parent="1">
+          <mxGeometry x="500" y="293" width="30" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-95" value="кондиционер" style="shape=rect;dashed=0;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="509.5" width="90" height="15" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
