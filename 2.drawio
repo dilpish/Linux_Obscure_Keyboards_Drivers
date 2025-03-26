@@ -22,9 +22,6 @@
         <mxCell id="-pGwXgd0kDjmnPK5l3hb-16" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.phone_digital;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="360" y="505.5" width="25" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="-pGwXgd0kDjmnPK5l3hb-19" value="" style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="680" y="320" width="40" height="32" as="geometry" />
-        </mxCell>
         <mxCell id="-pGwXgd0kDjmnPK5l3hb-20" value="" style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="560.0005080756887" y="298.996406460551" width="40" height="32" as="geometry" />
         </mxCell>
@@ -121,9 +118,6 @@
         </mxCell>
         <mxCell id="-pGwXgd0kDjmnPK5l3hb-110" value="ОТСС" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="507.5" y="320" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-pGwXgd0kDjmnPK5l3hb-111" value="ОТСС" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="660" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-pGwXgd0kDjmnPK5l3hb-112" value="ВТСС" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="468" width="60" height="30" as="geometry" />
