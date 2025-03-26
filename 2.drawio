@@ -107,8 +107,8 @@
         <mxCell id="-pGwXgd0kDjmnPK5l3hb-104" value="" style="verticalLabelPosition=bottom;align=center;outlineConnect=0;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.flow_sensors.coriolis;" vertex="1" parent="1">
           <mxGeometry x="285" y="580" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="-pGwXgd0kDjmnPK5l3hb-105" value="Лампы освещения&lt;div&gt;Датчик присутствия&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Пожарный извещатель&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="540" width="150" height="60" as="geometry" />
+        <mxCell id="-pGwXgd0kDjmnPK5l3hb-105" value="Лампы освещения&lt;div&gt;Датчик присутствия&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Пожарный извещатель&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Розетка электрическая&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="540" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-pGwXgd0kDjmnPK5l3hb-106" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.phone_digital;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="457.5" y="558" width="13" height="7" as="geometry" />
